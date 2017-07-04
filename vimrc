@@ -18,9 +18,10 @@ set nofoldenable
 set foldlevel=2
 " }}}
 
-" Special command leaders
+" Special command leaders {{{
 let mapleader = "-"
 let maplocalleader = ";"
+" }}}
 
 " NORMAL MODE MAPPINGS {{{
 
